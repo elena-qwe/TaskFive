@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0cfe2676_002D32c7_002D464c_002Dae99_002Dfbd849098ea1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestRegisterUser" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DCD8716F-C3C8-449E-A9E2-837FD0796853::net6.0::TestProject1.Tests.TestRegisterUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DCD8716F-C3C8-449E-A9E2-837FD0796853::net6.0::TestProject1.Tests.TestEditUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DCD8716F-C3C8-449E-A9E2-837FD0796853::net6.0::TestProject1.Tests.TestSearchUserBySurname&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DCD8716F-C3C8-449E-A9E2-837FD0796853::net6.0::TestProject1.Tests.TestFuzzySearchUserBySurname&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DCD8716F-C3C8-449E-A9E2-837FD0796853::net6.0::TestProject1.Tests.DeleteUser_ValidUserId_ReturnsTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DCD8716F-C3C8-449E-A9E2-837FD0796853::net6.0::TestProject1.Tests.GetYoungestUsers_ShouldReturnYoungestUsers&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
